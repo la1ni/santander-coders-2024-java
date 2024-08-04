@@ -9,6 +9,6 @@ Este repositório tem o propósito de registrar e documentar os exercícios desd
 
 ## Contato
 
-Estou à disposição em caso de dúvidas ou seugestões!
+Estou à disposição em caso de dúvidas ou sugestões!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-lainara-silva/)
