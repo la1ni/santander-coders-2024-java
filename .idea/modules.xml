@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercicios/exercicio1/calculadoraDeDias/calculadoraDeDias.iml" filepath="$PROJECT_DIR$/exercicios/exercicio1/calculadoraDeDias/calculadoraDeDias.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/exercicios/exercicio1/exercicio1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula3/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/aula3/fizzBuzz/fizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/santander-coders-2024-java.iml" filepath="$PROJECT_DIR$/santander-coders-2024-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula3/somaAntecessores/somaAntecessores.iml" filepath="$PROJECT_DIR$/aula3/somaAntecessores/somaAntecessores.iml" />
     </modules>
