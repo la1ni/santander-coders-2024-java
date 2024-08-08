@@ -5,12 +5,17 @@
       <module fileurl="file://$PROJECT_DIR$/aula1/aula1.iml" filepath="$PROJECT_DIR$/aula1/aula1.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula2/aula2.iml" filepath="$PROJECT_DIR$/aula2/aula2.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula3/aula3.iml" filepath="$PROJECT_DIR$/aula3/aula3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/exercicio1/calculadoraDeDias/calculadoraDeDias.iml" filepath="$PROJECT_DIR$/exercicios/exercicio1/calculadoraDeDias/calculadoraDeDias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/calculadoraDeDias/calculadoraDeDias.iml" filepath="$PROJECT_DIR$/exercicios/calculadoraDeDias/calculadoraDeDias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/calculadoraDeDiasJoaozinho/calculadoraDeDiasJoaozinho.iml" filepath="$PROJECT_DIR$/exercicios/calculadoraDeDiasJoaozinho/calculadoraDeDiasJoaozinho.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/exercicios/exercicio1/exercicio1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula3/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/aula3/fizzBuzz/fizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/geraFibonacci/geraFibonacci.iml" filepath="$PROJECT_DIR$/exercicios/geraFibonacci/geraFibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/notaDosAlunos/notaDosAlunos.iml" filepath="$PROJECT_DIR$/exercicios/notaDosAlunos/notaDosAlunos.iml" />
       <module fileurl="file://$PROJECT_DIR$/santander-coders-2024-java.iml" filepath="$PROJECT_DIR$/santander-coders-2024-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula3/somaAntecessores/somaAntecessores.iml" filepath="$PROJECT_DIR$/aula3/somaAntecessores/somaAntecessores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/triangulos/triangulos.iml" filepath="$PROJECT_DIR$/exercicios/triangulos/triangulos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/valorProdutoFinal/valorProdutoFinal.iml" filepath="$PROJECT_DIR$/exercicios/valorProdutoFinal/valorProdutoFinal.iml" />
     </modules>
   </component>
 </project>
