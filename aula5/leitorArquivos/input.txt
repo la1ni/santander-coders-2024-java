@@ -1,0 +1,3 @@
+Esse é um texto de exemplo para o leitor de arquivos
+Exercício passado na aula 5 do Santander Coders
+Se a leitura chegou até aqui quer dizer que tivemos sucesso :)
