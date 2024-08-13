@@ -17,7 +17,6 @@ public class Main {
                 if (numero == input[c]){
                     return true;
                 }
-
             }
         }
         return false;

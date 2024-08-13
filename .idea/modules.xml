@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula3/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/aula3/fizzBuzz/fizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios/geraFibonacci/geraFibonacci.iml" filepath="$PROJECT_DIR$/exercicios/geraFibonacci/geraFibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/gincanaSubstring/gincanaSubstring.iml" filepath="$PROJECT_DIR$/exercicios/gincanaSubstring/gincanaSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula5/inteiroValidoException/inteiroValidoException.iml" filepath="$PROJECT_DIR$/aula5/inteiroValidoException/inteiroValidoException.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula5/leitorArquivos/leitorArquivos.iml" filepath="$PROJECT_DIR$/aula5/leitorArquivos/leitorArquivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/aula4/maiorDaMatriz/maiorDaMatriz.iml" filepath="$PROJECT_DIR$/aula4/maiorDaMatriz/maiorDaMatriz.iml" />
