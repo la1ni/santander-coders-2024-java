@@ -10,7 +10,7 @@ public class Main {
 
     }
 
-    public static String leArquivos(String path) {
+    public static String leArquivos(String path)  {
         BufferedReader bufferedReader = null;
         try {
 
