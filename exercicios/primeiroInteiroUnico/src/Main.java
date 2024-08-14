@@ -2,14 +2,30 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        int[] input = {1, 1, 2, 2, 5, 2, 3, 3};
+        System.out.println(numeroUnico(input));
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
+    }
+
+    public static int numeroUnico(int[] input) {
+        int numeroAnalisdo;
+        int numeroComparado;
+        boolean igual = false;
+
+        for (int i = 0; i < input.length; i++) {
+            numeroAnalisdo = input[i];
+
+            for (int c = 0; c < input.length; c++) {
+                numeroComparado = input[c];
+
+                if (numeroAnalisdo == numeroComparado && c != i) {
+                    igual = true;
+                    break;
+                }
+                igual = false;
+            }
+            if (!igual) return numeroAnalisdo;
+            }
+        return -1;
         }
     }
-}
