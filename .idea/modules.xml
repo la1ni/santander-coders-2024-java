@@ -2,30 +2,38 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aula1/aula1.iml" filepath="$PROJECT_DIR$/aula1/aula1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula2/aula2.iml" filepath="$PROJECT_DIR$/aula2/aula2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula3/aula3.iml" filepath="$PROJECT_DIR$/aula3/aula3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula4/aula4.iml" filepath="$PROJECT_DIR$/aula4/aula4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula5/aula5.iml" filepath="$PROJECT_DIR$/aula5/aula5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/calculadoraDeDias/calculadoraDeDias.iml" filepath="$PROJECT_DIR$/exercicios/calculadoraDeDias/calculadoraDeDias.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/calculadoraDeDiasJoaozinho/calculadoraDeDiasJoaozinho.iml" filepath="$PROJECT_DIR$/exercicios/calculadoraDeDiasJoaozinho/calculadoraDeDiasJoaozinho.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula4/diagonalMatriz/diagonalMatriz.iml" filepath="$PROJECT_DIR$/aula4/diagonalMatriz/diagonalMatriz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/exercicios/exercicio1/exercicio1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula3/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/aula3/fizzBuzz/fizzBuzz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/geraFibonacci/geraFibonacci.iml" filepath="$PROJECT_DIR$/exercicios/geraFibonacci/geraFibonacci.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/gincanaSubstring/gincanaSubstring.iml" filepath="$PROJECT_DIR$/exercicios/gincanaSubstring/gincanaSubstring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula5/inteiroValidoException/inteiroValidoException.iml" filepath="$PROJECT_DIR$/aula5/inteiroValidoException/inteiroValidoException.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula5/leitorArquivos/leitorArquivos.iml" filepath="$PROJECT_DIR$/aula5/leitorArquivos/leitorArquivos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula4/maiorDaMatriz/maiorDaMatriz.iml" filepath="$PROJECT_DIR$/aula4/maiorDaMatriz/maiorDaMatriz.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/notaDosAlunos/notaDosAlunos.iml" filepath="$PROJECT_DIR$/exercicios/notaDosAlunos/notaDosAlunos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-2/aula-2/aula-2.iml" filepath="$PROJECT_DIR$/modulo-2/aula-2/aula-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula1/aula1.iml" filepath="$PROJECT_DIR$/modulo-1/aula1/aula1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula2/aula2.iml" filepath="$PROJECT_DIR$/modulo-1/aula2/aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula3/aula3.iml" filepath="$PROJECT_DIR$/modulo-1/aula3/aula3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula4/aula4.iml" filepath="$PROJECT_DIR$/modulo-1/aula4/aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula5/aula5.iml" filepath="$PROJECT_DIR$/modulo-1/aula5/aula5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-2/aula_2/aula_2.iml" filepath="$PROJECT_DIR$/modulo-2/aula_2/aula_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/calculadoraDeDias/calculadoraDeDias.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/calculadoraDeDias/calculadoraDeDias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/calculadoraDeDiasJoaozinho/calculadoraDeDiasJoaozinho.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/calculadoraDeDiasJoaozinho/calculadoraDeDiasJoaozinho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula4/diagonalMatriz/diagonalMatriz.iml" filepath="$PROJECT_DIR$/modulo-1/aula4/diagonalMatriz/diagonalMatriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/exercicio1/exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula3/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/modulo-1/aula3/fizzBuzz/fizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/geraFibonacci/geraFibonacci.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/geraFibonacci/geraFibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/gincanaSubstring/gincanaSubstring.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/gincanaSubstring/gincanaSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula5/inteiroValidoException/inteiroValidoException.iml" filepath="$PROJECT_DIR$/modulo-1/aula5/inteiroValidoException/inteiroValidoException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula5/leitorArquivos/leitorArquivos.iml" filepath="$PROJECT_DIR$/modulo-1/aula5/leitorArquivos/leitorArquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula4/maiorDaMatriz/maiorDaMatriz.iml" filepath="$PROJECT_DIR$/modulo-1/aula4/maiorDaMatriz/maiorDaMatriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/modulo-1.iml" filepath="$PROJECT_DIR$/modulo-1/modulo-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-2/modulo-2.iml" filepath="$PROJECT_DIR$/modulo-2/modulo-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/notaDosAlunos/notaDosAlunos.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/notaDosAlunos/notaDosAlunos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/primeiroCaractereUnico/primeiroCaractereUnico.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/primeiroCaractereUnico/primeiroCaractereUnico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/primeiroInteiroUnico/primeiroInteiroUnico.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/primeiroInteiroUnico/primeiroInteiroUnico.iml" />
       <module fileurl="file://$PROJECT_DIR$/santander-coders-2024-java.iml" filepath="$PROJECT_DIR$/santander-coders-2024-java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula3/somaAntecessores/somaAntecessores.iml" filepath="$PROJECT_DIR$/aula3/somaAntecessores/somaAntecessores.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/somaDosAlgarismos/somaDosAlgarismos.iml" filepath="$PROJECT_DIR$/exercicios/somaDosAlgarismos/somaDosAlgarismos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula3/taxaJuros/taxaJuros.iml" filepath="$PROJECT_DIR$/aula3/taxaJuros/taxaJuros.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/triangulos/triangulos.iml" filepath="$PROJECT_DIR$/exercicios/triangulos/triangulos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/valorProdutoFinal/valorProdutoFinal.iml" filepath="$PROJECT_DIR$/exercicios/valorProdutoFinal/valorProdutoFinal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/exercicios/valoresRepetidos/valoresRepetidos.iml" filepath="$PROJECT_DIR$/exercicios/valoresRepetidos/valoresRepetidos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/soletracao/soletracao.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/soletracao/soletracao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/soletracaoReversa/soletracaoReversa.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/soletracaoReversa/soletracaoReversa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula3/somaAntecessores/somaAntecessores.iml" filepath="$PROJECT_DIR$/modulo-1/aula3/somaAntecessores/somaAntecessores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/somaDosAlgarismos/somaDosAlgarismos.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/somaDosAlgarismos/somaDosAlgarismos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/aula3/taxaJuros/taxaJuros.iml" filepath="$PROJECT_DIR$/modulo-1/aula3/taxaJuros/taxaJuros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/triangulos/triangulos.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/triangulos/triangulos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/valorProdutoFinal/valorProdutoFinal.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/valorProdutoFinal/valorProdutoFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/valoresRepetidos/valoresRepetidos.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/valoresRepetidos/valoresRepetidos.iml" />
     </modules>
   </component>
 </project>
