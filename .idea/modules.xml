@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/modulo-2/exercicios-modulo-2/alterar-senha/alterar-senha.iml" filepath="$PROJECT_DIR$/modulo-2/exercicios-modulo-2/alterar-senha/alterar-senha.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo-2/exercicios-modulo-2/analisadorAprovacao/analisadorAprovacao.iml" filepath="$PROJECT_DIR$/modulo-2/exercicios-modulo-2/analisadorAprovacao/analisadorAprovacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo-2/aula-2/aula-2.iml" filepath="$PROJECT_DIR$/modulo-2/aula-2/aula-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo-1/aula1/aula1.iml" filepath="$PROJECT_DIR$/modulo-1/aula1/aula1.iml" />
@@ -10,8 +11,13 @@
       <module fileurl="file://$PROJECT_DIR$/modulo-1/aula4/aula4.iml" filepath="$PROJECT_DIR$/modulo-1/aula4/aula4.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo-1/aula5/aula5.iml" filepath="$PROJECT_DIR$/modulo-1/aula5/aula5.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo-2/aula_2/aula_2.iml" filepath="$PROJECT_DIR$/modulo-2/aula_2/aula_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-2/aula_6/aula_6.iml" filepath="$PROJECT_DIR$/modulo-2/aula_6/aula_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-2/aula_7/aula_7.iml" filepath="$PROJECT_DIR$/modulo-2/aula_7/aula_7.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/calculadoraDeDias/calculadoraDeDias.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/calculadoraDeDias/calculadoraDeDias.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/calculadoraDeDiasJoaozinho/calculadoraDeDiasJoaozinho.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/calculadoraDeDiasJoaozinho/calculadoraDeDiasJoaozinho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-2/exercicios-modulo-2/carro-e-veiculo/carro-e-veiculo.iml" filepath="$PROJECT_DIR$/modulo-2/exercicios-modulo-2/carro-e-veiculo/carro-e-veiculo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-2/exercicios-modulo-2/conta-bancaria-ex3/conta-bancaria-ex3.iml" filepath="$PROJECT_DIR$/modulo-2/exercicios-modulo-2/conta-bancaria-ex3/conta-bancaria-ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo-2/exercicios-modulo-2/conta-bancaria-heranca/conta-bancaria-heranca.iml" filepath="$PROJECT_DIR$/modulo-2/exercicios-modulo-2/conta-bancaria-heranca/conta-bancaria-heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo-2/exercicios-modulo-2/controleEstoque/controleEstoque.iml" filepath="$PROJECT_DIR$/modulo-2/exercicios-modulo-2/controleEstoque/controleEstoque.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo-1/aula4/diagonalMatriz/diagonalMatriz.iml" filepath="$PROJECT_DIR$/modulo-1/aula4/diagonalMatriz/diagonalMatriz.iml" />
       <module fileurl="file://$PROJECT_DIR$/modulo-1/exercicios/exercicio1/exercicio1.iml" filepath="$PROJECT_DIR$/modulo-1/exercicios/exercicio1/exercicio1.iml" />

@@ -9,7 +9,10 @@ public class Produto {
     public Produto(String codigo, double precoUnitario, int quantidade) {
         this.codigo = codigo;
         this.precoUnitario = precoUnitario;
-        this.quantidade = quantidade;
+        if (quantidade >= 0){
+            this.quantidade = quantidade;
+        } else {this.quantidade = 0;}
+
     }
 }
 

@@ -1,19 +1,20 @@
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
 public class NotaFiscal {
-    public static List<Produto> produtos;
+    public static List<Produto> produtos = new ArrayList<>();
 
     public void adicionarProduto(Produto produto) {
-        produtos.add(produto);
+        if (produto.quantidade <= 0){
+            throw new RuntimeException();
+        } else {
+            produtos.add(produto);
+        }
     }
 
     public void removerProduto(String codigo) {
-        for (Produto produto : produtos) {
-            if (Objects.equals(produto.codigo, codigo)){
-                produtos.remove(produto);
-            }
-        }
+        produtos.removeIf(produto -> Objects.equals(produto.codigo, codigo));
     }
 
     public double calcularValorProduto(Produto produto){
