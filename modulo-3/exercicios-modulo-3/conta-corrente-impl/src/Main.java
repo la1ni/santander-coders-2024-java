@@ -26,10 +26,12 @@ class OperacoesContaCorrenteImpl implements OperacoesContaCorrente {
 
     @Override
     public boolean realizaSaque(ContaCorrente contaCorrente, Double saque) {
-        if (saque <= contaCorrente.getSaldo()) { return true;}
-        else return false;
-        }
+        if (saque <= contaCorrente.getSaldo()) {
+            contaCorrente.setSaldo(contaCorrente.getSaldo() - saque);
+            return true;
+        } else return false;
     }
+}
 
 class ContaCorrente {
     private String agencia;
@@ -64,5 +66,14 @@ class ContaCorrente {
 
     public void setSaldo(Double saldo) {
         this.saldo = saldo;
+    }
+
+    public static void main(String[] args) {
+        ContaCorrente contaCorrente = new ContaCorrente("2114", "2", 100.00);
+
+        OperacoesContaCorrenteImpl operacoesContaCorrente = new OperacoesContaCorrenteImpl(contaCorrente);
+
+        operacoesContaCorrente.realizaSaque(contaCorrente, 300.00);
+        System.out.println(contaCorrente.getSaldo());
     }
 }
